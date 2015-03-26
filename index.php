@@ -92,7 +92,7 @@
 		    <h1><a href="#page1"><img src="img/logo.png" alt="LOGO"></a></h1>
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-		    <h1>Mobile Site | <a href="http://www.northnaplesdental.com/" rel="external">Classic Site</a></h1>
+			<h1>Powered by <a href="http://mobilegrows.com/">MobileGrows</a> | <a href="http://northnaplesdental.com/" rel="external">Desktop Site</a></h1>
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
